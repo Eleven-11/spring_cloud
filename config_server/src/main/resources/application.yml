@@ -18,4 +18,5 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri:https://github.com/Eleven-11/spring_cloud.git
+
