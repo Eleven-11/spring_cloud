@@ -16,6 +16,10 @@
         <module>eureka_server</module>
         <module>eureka_client</module>
         <module>config_server</module>
+        <module>config_client</module>
+        <module>ribbon_server</module>
+        <module>service_feign</module>
+        <module>service_zuul</module>
     </modules>
 
     <name>spring_cloud_parent</name>
